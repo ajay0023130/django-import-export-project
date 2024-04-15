@@ -1,41 +1,41 @@
-title,description,cost,create_at
-this is test,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,90,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,16,4/15/2024 7:05
-test ajay,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,8,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is test,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,90,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,16,4/15/2024 7:05
-test ajay,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,8,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is test,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,90,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,16,4/15/2024 7:05
-test ajay,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,8,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is test,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,90,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,16,4/15/2024 7:05
-test ajay,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,8,4/15/2024 7:05
-this is aman,this is aman,10,4/15/2024 7:05
-test ajay,this is test sharma,20,4/15/2024 7:05
+title,author,isbn,publication_year
+this is test,this is aman,10,21
+test ajay,this is test sharma,20,12
+this is aman,this is aman,90,89
+test ajay,this is test sharma,20,76
+this is aman,this is aman,10,89
+test ajay,this is test sharma,16,56
+test ajay,this is aman,10,45
+test ajay,this is test sharma,8,78
+this is aman,this is aman,10,45
+test ajay,this is test sharma,20,34
+this is test,this is aman,10,45
+test ajay,this is test sharma,20,23
+this is aman,this is aman,90,34
+test ajay,this is test sharma,20,44
+this is aman,this is aman,10,44
+test ajay,this is test sharma,16,34
+test ajay,this is aman,10,445
+test ajay,this is test sharma,8,5
+this is aman,this is aman,10,5
+test ajay,this is test sharma,20,5
+this is test,this is aman,10,8
+test ajay,this is test sharma,20,78
+this is aman,this is aman,90,89
+test ajay,this is test sharma,20,87
+this is aman,this is aman,10,78
+test ajay,this is test sharma,16,65
+test ajay,this is aman,10,87
+test ajay,this is test sharma,8,98
+this is aman,this is aman,10,56
+test ajay,this is test sharma,20,45
+this is test,this is aman,10,89
+test ajay,this is test sharma,20,89
+this is aman,this is aman,90,78
+test ajay,this is test sharma,20,67
+this is aman,this is aman,10,78
+test ajay,this is test sharma,16,78
+test ajay,this is aman,10,78
+test ajay,this is test sharma,8,45
+this is aman,this is aman,10,45
+test ajay,this is test sharma,20,67
